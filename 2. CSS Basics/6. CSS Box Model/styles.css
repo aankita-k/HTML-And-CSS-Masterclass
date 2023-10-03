@@ -3,6 +3,11 @@
 /* ------- BORDER SHORTHAND ------- */
 /* ------- BORDER RADIUS ------- */
 /* ------- TOP, BOTTOM, LEFT, RIGHT ------- */
+p{
+  border-width: 45px;
+  background-color: bisque;
+  border-style: dotted;
+}
 h1 {
   /* 
     border-width: 2px;
@@ -38,5 +43,5 @@ h3 {
   /* margin-bottom: 20px; */
   /* margin-left: 20px; */
   /* margin-right: 20px; */
-  /* margin: 20px 30px; */
+   margin: 20px 30px; 
 }

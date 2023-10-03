@@ -2,9 +2,10 @@
   border: 2px dashed crimson;
 }
 
-span {
+.inline {
   border: 2px dashed blue;
   display: inline-block;
+ 
 }
 
 a {
