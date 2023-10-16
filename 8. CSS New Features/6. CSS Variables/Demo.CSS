@@ -1,0 +1,20 @@
+:root{
+    --color: rgb(165, 131, 131);
+    --sizer: 4rerm;
+    --primary-color: yellow;
+}
+
+h1{
+    color: var(--color);
+    size: var(--sizer);
+}
+
+h2{
+    color: var( --primary-color);
+    size: var(--sizer);
+}
+
+h3{
+    color: var(--color);
+    size: var(--sizer);
+}

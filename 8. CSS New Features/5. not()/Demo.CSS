@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+    color: white;
+    padding: 2rem;
+}
+
+.A{
+    width: 42cm;
+    margin: 0 auto;
+    background-color: rgb(107, 107, 194);
+    padding: 4rem;
+}
+
+.A .B :not( .Content){
+    color: black;
+    font-size: 14px;
+}
